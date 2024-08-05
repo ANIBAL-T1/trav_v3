@@ -1,0 +1,3 @@
+id,username,email,senha,autenticacao_habilitada,codigo_autenticacao,criado_em,perfil
+1,adm,adm@gmail.com,$2y$10$zz9oAEe6scLHjXVd2gh4mOv0Ro4gzrqsuTAhKvKnWtJzOeGZJLtYe,1,,"2024-08-05 17:12:40",admin
+2,aluno,aluno@gmail.com,$2y$10$1NcjlIkq5ARAq60PbSsBN.ZXW48oquAJ6mstskF4KgtlnzAv.Ykmi,0,,"2024-08-05 17:14:40",user
